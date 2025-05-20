@@ -1,0 +1,22 @@
+{
+  "name": "Mirtha Dols",
+  "symbol": "MIRD",
+  "type": "coin",
+  "decimals": 18,
+  "website": "https://twitter.com/MirthaDols",
+  "description": "MIRD es una meme coin argentina homenaje a Mirtha Legrand, ícono de la televisión.",
+  "explorer": "https://bscscan.com/token/0x37754fF668F5214cB3c9008726D4bCD676f93802",
+  "status": "active",
+  "id": "0x37754fF668F5214cB3c9008726D4bCD676f93802",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MirthaDols"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Nicopereira3/assets"
+    }
+  ],
+  "tags": ["meme"]
+}
